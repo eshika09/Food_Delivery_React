@@ -1,7 +1,8 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('C:\Users\DELL\OneDrive\Desktop\React\food_delivery\frontend\public\assets\header_img.png') no-repeat;
+/*     background: url('C:\Users\DELL\OneDrive\Desktop\React\food_delivery\frontend\public\assets\header_img.png') no-repeat; */
+    background: url('/assets/header_img.png') no-repeat;
     background-size: contain;
     position: relative;
 }
